@@ -1,4 +1,7 @@
-# Müşteri Ayrılma (Churn) Tahmini
+# Müşteri Ayrılma (Churn) Tahmini — ders ödevi
+
+> **Bu repo bir ders ödevidir, portföy çalışması değildir.** Türkiye Yapay Zeka Akademisi makine öğrenmesi ara ödevi (Ağustos 2026); 300 satırlık sentetik veriyle tek dosyalık sınıflandırma alıştırması. Üretim kodu değildir, bakım yapılmamaktadır ve arşivlenmiştir. Gerçek projeler için: [furkansenyuz.com](https://furkansenyuz.com).
+
 
 Türkiye Yapay Zeka Akademisi - Makine Öğrenmesi Ara Ödevi
 
